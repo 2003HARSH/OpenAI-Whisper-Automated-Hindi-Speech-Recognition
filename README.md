@@ -13,8 +13,7 @@ Welcome to the OpenAI Whisper Automated Speech Recognition (Hindi) project! This
 ### Prerequisites
 - Python 3.7+
 - Kaggle account (for data and notebook execution)
-- `transformers` and `torchaudio` libraries (for Whisper model)
-- Other dependencies listed in `requirements.txt`
+- `OpenAI Whisper` and `torchaudio` libraries (for Whisper model)
 
 ### Code
 For Detailed Code go here [https://www.kaggle.com/code/harshgupta2003/openai-whisper-automated-speech-recognition-hindi]
