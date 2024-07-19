@@ -26,3 +26,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## Acknowledgments
 Special thanks to OpenAI for the Whisper model and to the Kaggle community for providing the resources and datasets used in this project.
+
